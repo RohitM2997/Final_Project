@@ -1,0 +1,22 @@
+# requirements
+# python 3.13
+
+langchain
+
+langchain_community
+
+langchain_core
+
+langchain_groq
+
+dotenv
+
+streamlit
+
+langchain_huggingface
+
+faiss-cpu
+
+pypdf2
+
+newspaper3k
